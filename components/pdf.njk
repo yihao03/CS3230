@@ -1,0 +1,11 @@
+{% macro pdf(file, type, page) %}
+{% if page %}
+Open [{{file}} page {{page}}]({{baseUrl}}/assets/onedrive/{{type}}/{{file}})
+
+<iframe src="{{baseUrl}}/assets/onedrive/{{type}}/{{file}}#page={{page}}" width="100%" height="500px"></iframe>
+{% else %}
+Open [{{file}}]({{baseUrl}}/assets/onedrive/{{type}}/{{file}})
+
+<iframe src="{{baseUrl}}/assets/onedrive/{{type}}/{{file}}" width="100%" height="500px"></iframe>
+{% endif %}
+{% endmacro %}
