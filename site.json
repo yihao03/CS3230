@@ -1,5 +1,5 @@
 {
-  "baseUrl": "",
+  "baseUrl": "/CS3230",
   "titlePrefix": "",
   "titleSuffix": "",
   "ignore": [
@@ -13,13 +13,18 @@
     ".gitignore",
     "node_modules/*"
   ],
-  "pagesExclude": ["node_modules/*"],
+  "pagesExclude": [
+    "node_modules/*"
+  ],
   "pages": [
     {
       "src": "index.md"
     },
     {
-      "glob": ["**/index.md", "**/*.md"]
+      "glob": [
+        "**/index.md",
+        "**/*.md"
+      ]
     }
   ],
   "deploy": {
