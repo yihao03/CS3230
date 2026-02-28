@@ -21,6 +21,3 @@ _site/
 .vscode/
 .idea/*
 *.iml
-
-# symlink
-./assets/onedrive
