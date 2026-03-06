@@ -1,5 +1,5 @@
 {
-  "baseUrl": "/CS3230",
+  "baseUrl": "",
   "titlePrefix": "",
   "titleSuffix": "",
   "ignore": [
@@ -14,7 +14,8 @@
     "node_modules/*"
   ],
   "pagesExclude": [
-    "node_modules/*"
+    "node_modules/*",
+    "assets/*"
   ],
   "pages": [
     {

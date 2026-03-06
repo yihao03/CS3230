@@ -11,11 +11,11 @@ title: {{title}}
 
 {{ pdf("Lec3a.pdf", "lec", 7) }}
 
-For a proof: important to also consider elements not being acted on in a step (e.g. state that it stays the same)
+_important to also consider elements not being acted on in a step (e.g. state that it stays the same)_
 
-- Initialization: $n=1$, trivially/vacuously true?
-- Maintenance: if $n-1$ holds, n is true
-- Termination: imagine there's a $k+1^{th}$ step, nothing changes
+- **Initialization**: $n=1$, trivially/vacuously true?
+- **Maintenance**: if $n-1$ holds, n is true
+- **Termination**: imagine there's a $k+1^{th}$ step, nothing changes
 
 {{ pdf("Lec3a.pdf", "lec", 17) }}
 

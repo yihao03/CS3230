@@ -1,3 +1,5 @@
+{% from "components/pdf.njk" import pdf %}
+
 <head-bottom>
   <link rel="stylesheet" href="{{baseUrl}}/stylesheets/main.css">
 </head-bottom>
@@ -19,15 +21,27 @@
     </div>
     <div class="nav-component slim-scroll">
       <site-nav>
+* [Techniques]({{beseUrl}}/contents/techniques.html)
 * Lecture 1 :expanded:
-  * [Part a]({{baseUrl}}/contents/week1/l1a.html)
-  * [Part b]({{baseUrl}}/contents/week1/l1b.html)
+  * [Admin info]({{baseUrl}}/contents/week1/l1a.html)
+  * [Intro to algo]({{baseUrl}}/contents/week1/l1b.html)
   * [Tutorial]({{baseUrl}}/contents/week1/tut.html)
 * Lecture 2 :expanded:
-  * [Part a]({{baseUrl}}/contents/week2/l2.html)
+  * [Time complexity for recurrence algorithms]({{baseUrl}}/contents/week2/l2.html)
+  * [Tutorial]({{baseUrl}}/contents/week2/tut.html)
 * Lecture 3 :expanded:
-  * [Part a]({{baseUrl}}/contents/week3/l3a.html)
-  * [Part b]({{baseUrl}}/contents/week3/l3b.html)
+  * [Proof of correctness]({{baseUrl}}/contents/week3/l3a.html)
+  * [Divide and Conquer]({{baseUrl}}/contents/week3/l3b.html)
+  * [Tutorial]({{baseUrl}}/contents/week3/tut.html)
+* Lecture 4 :expanded:
+  * [Comparison based sorting]({{baseUrl}}/contents/week4/l4a.html)
+  * [Average case analysis]({{baseUrl}}/contents/week4/l4b.html)
+  * [Tutorial]({{baseUrl}}/contents/week4/tut.html)
+* Lecture 5 :expanded:
+  * [Randomized algorithms]({{baseUrl}}/contents/week5/l5.html)
+  * [Tutorial]({{baseUrl}}/contents/week5/tut.html)
+* Lecture 7 :expanded:
+  * [Greedy algorithms]({{baseUrl}}/contents/week7/l7.html)
       </site-nav>
     </div>
   </nav>

@@ -1,6 +1,6 @@
 {% from "components/pdf.njk" import pdf %}
-{% set tutorialNum="tutorial01" %}
-{% set title="Tutorial 1" %}
+{% set tutorialNum="tutorial02" %}
+{% set title="Tutorial 2" %}
 
 <frontmatter>
 title: {{title}}
