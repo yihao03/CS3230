@@ -1,0 +1,240 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "404.md",
+      "title": "Page not found",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "components/template.md",
+      "title": null,
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/midterms.md",
+      "headings": {
+        "b3": "B3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/techniques.md",
+      "headings": {
+        "useful-facts": "Useful facts",
+        "probability-revision": "Probability revision",
+        "average-case-analysis": "Average Case Analysis",
+        "principle-of-deferred-decision": "Principle Of Deferred Decision",
+        "union-bound": "Union Bound",
+        "markov-inequality": "Markov Inequality",
+        "freivalds-algorithm": "Freivalds Algorithm",
+        "extension-of-master-s-theorem": "Extension of Master's Theorem",
+        "2-1-extensions": "2.1 Extensions",
+        "theorem-2-2-master-theorem-extensions": "Theorem 2.2 — Master Theorem Extensions",
+        "useful-equations": "Useful equations",
+        "harmonic-series": "Harmonic series",
+        "geometric-series": "Geometric series",
+        "arithmetic-series": "Arithmetic series",
+        "summations": "Summations",
+        "sum-of-squares": "Sum of squares",
+        "sum-of-cubes": "Sum of cubes",
+        "stirling-s-approximation": "Stirling's approximation",
+        "binomial-theorem": "Binomial theorem",
+        "expected-value": "Expected value",
+        "combinatorics": "Combinatorics",
+        "combination": "Combination",
+        "permutation": "Permutation",
+        "strassen-s-algorithm": "Strassen's Algorithm",
+        "karatsuba-s-algorithm": "Karatsuba's Algorithm"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week1/l1a.md",
+      "title": "Lecture 1",
+      "headings": {
+        "lecture-1": "Lecture 1"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week1/l1b.md",
+      "title": "Lecture 1 part b",
+      "headings": {
+        "lecture-1-part-b": "Lecture 1 part b",
+        "introduction-to-algorithms": "Introduction to Algorithms",
+        "algorithm-paradigms": "Algorithm paradigms",
+        "analyse-resource-usage": "Analyse resource usage",
+        "example-fibonacci-numbers": "Example: Fibonacci numbers",
+        "recursive-implementation": "Recursive implementation",
+        "iterative-implementation": "Iterative implementation",
+        "asymptotic-analysis": "Asymptotic analysis",
+        "determining-complexity-by-taking-limits": "Determining complexity by taking limits"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week1/tut.md",
+      "title": "Tutorial 1",
+      "headings": {
+        "tutorial-1": "Tutorial 1",
+        "slides": "Slides",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week2/l2.md",
+      "title": "Lecture 2 part a",
+      "headings": {
+        "lecture-2-part-a": "Lecture 2 part a",
+        "solving-a-recurence": "Solving a recurence",
+        "substituting-n-to-solve-recurrences": "Substituting n to solve recurrences",
+        "deriving-the-tight-bound": "Deriving the tight bound",
+        "estimating-the-sum": "Estimating the sum",
+        "result": "Result"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week2/tut.md",
+      "title": "Tutorial 2",
+      "headings": {
+        "tutorial-2": "Tutorial 2",
+        "slides": "Slides",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week3/l3a.md",
+      "title": "Proof of Correctness",
+      "headings": {
+        "proof-of-correctness": "Proof of Correctness",
+        "iterative-version": "Iterative version",
+        "recursive-version": "Recursive version"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week3/l3b.md",
+      "title": "Divide and Conquer",
+      "headings": {
+        "divide-and-conquer": "Divide and Conquer",
+        "reformulate-to-break-problem-into-subproblems": "Reformulate to break problem into subproblems",
+        "reducing-number-of-subproblems": "Reducing number of subproblems"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week3/tut.md",
+      "title": "Tutorial 3",
+      "headings": {
+        "tutorial-3": "Tutorial 3",
+        "slides": "Slides",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week4/l4a.md",
+      "title": "Lecture 4 part a",
+      "headings": {
+        "lecture-4-part-a": "Lecture 4 part a",
+        "comparison-based-algorithms": "Comparison based algorithms",
+        "proving-the-lower-bound": "Proving the lower bound",
+        "breaking-the-barrier-non-comparison-sorts": "Breaking the barrier: Non-comparison sorts"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week4/l4b.md",
+      "title": "Average case analysis",
+      "headings": {
+        "average-case-analysis": "Average case analysis",
+        "quicksort": "Quicksort",
+        "worst-case-analysis": "Worst case analysis",
+        "average-case-analysis-2": "Average case analysis",
+        "desirable-characteristics-of-a-sorting-algorithm": "Desirable characteristics of a sorting algorithm"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week4/tut.md",
+      "title": "Tutorial 4",
+      "headings": {
+        "tutorial-4": "Tutorial 4",
+        "slides": "Slides",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week5/l5.md",
+      "title": "Randomized algorithm",
+      "headings": {
+        "randomized-algorithm": "Randomized algorithm",
+        "freivald-s-algorithm": "Freivald's algorithm",
+        "principle-of-deferred-decision": "Principle of deferred decision",
+        "union-bound": "Union bound",
+        "markov-s-inequality": "Markov's inequality",
+        "randomized-quicksort": "Randomized quicksort"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week5/tut.md",
+      "title": "Tutorial 5",
+      "headings": {
+        "tutorial-5": "Tutorial 5",
+        "slides": "Slides",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week7/assignment6.md",
+      "title": "Assignment 6",
+      "headings": {
+        "assignment-6": "Assignment 6",
+        "question-1": "Question 1",
+        "question-2": "Question 2",
+        "basic-recursion": "Basic recursion",
+        "bottom-up-approach": "Bottom up approach",
+        "question-3": "Question 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week7/l7.md",
+      "title": "Greedy algorithms",
+      "headings": {
+        "greedy-algorithms": "Greedy algorithms",
+        "dynamic-vs-greedy": "Dynamic vs Greedy"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/week9/assignment.md",
+      "headings": {
+        "question-1": "Question 1",
+        "time-complexity": "Time complexity",
+        "optimal-substructure": "Optimal substructure",
+        "greedy-choice-property": "Greedy choice property",
+        "question-2": "Question 2",
+        "time-complexity-2": "Time complexity",
+        "question-3": "Question 3",
+        "part-a": "Part (a)",
+        "part-b": "Part (b)"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "headings": {},
+      "headingKeywords": {}
+    }
+  ]
+}
